@@ -1,6 +1,5 @@
 <p align="center"> 
-   <img src="https://capsule-render.vercel.app/api?text=Olá,%20Mundo!&animation=fadeIn&type=waving&fontColor=ffffff&color=0:00E8C6,33:005DFF,66:8A00FF,100:FF0099&height=120"/>
-
+   <img src="https://capsule-render.vercel.app/api?text=Olá,%20Mundo!&fontSize=60&fontAlignY=45&animation=fadeIn&type=waving&fontColor=ffffff&color=0:00E8C6,33:005DFF,66:8A00FF,100:FF0099&height=130"/>
 </p>
 
 <p align="center">
