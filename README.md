@@ -1,21 +1,25 @@
 <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?text=Olá,%20Mundo!&fontSize=60&fontAlignY=45&animation=fadeIn&type=waving&fontColor=ffffff&color=0:00E8C6,33:005DFF,66:8A00FF,100:FF0099&height=130"/>
 </p>
-
 <p align="center">
   <a href="https://www.instagram.com/aysha_thayna/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" />
+    <img height="47" src="https://github.com/user-attachments/assets/6fadafef-0387-488a-ab77-b558a94940d1" />
   </a>
+
   <a href="https://www.linkedin.com/in/aysha-thayna/">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img height="50" src="https://github.com/user-attachments/assets/7127aed8-c6fc-4f6d-8e17-ffe3b9c638a8" />
   </a>
+  <a href="mailto:ayshathayna@gmail.com">
+    <img height="52" src="https://github.com/user-attachments/assets/28b2f82e-7989-464c-8c84-29049ca34e4c" />
+  </a>
+
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-Olá! Meu nome é **Aysha Thayná* ... 
+Olá! Meu nome é Aysha Thayná e estudo Ciência da Computação. Sou apaixonada por tecnologia, programação e por tudo que me desafia a pensar de um jeito diferente. Estou sempre buscando aprender, criar e transformar ideias em algo real, mesmo que, às vezes, isso envolva algumas xícaras de café e longas conversas com o meu código.🦆
 
 ---
 
