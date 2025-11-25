@@ -6,7 +6,7 @@
     <img height="47" src="https://github.com/user-attachments/assets/6fadafef-0387-488a-ab77-b558a94940d1" />
   </a>
 
-  <a href="https://www.linkedin.com/in/aysha-thayna/">
+  <a href="https://www.linkedin.com/in/aysha-thayná/">
     <img height="50" src="https://github.com/user-attachments/assets/7127aed8-c6fc-4f6d-8e17-ffe3b9c638a8" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayshathayna@gmail.com" target="_blank">
