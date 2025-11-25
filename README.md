@@ -9,10 +9,9 @@
   <a href="https://www.linkedin.com/in/aysha-thayna/">
     <img height="50" src="https://github.com/user-attachments/assets/7127aed8-c6fc-4f6d-8e17-ffe3b9c638a8" />
   </a>
-  <a href="mailto:ayshathayna@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayshathayna@gmail.com" target="_blank">
     <img height="52" src="https://github.com/user-attachments/assets/28b2f82e-7989-464c-8c84-29049ca34e4c" />
   </a>
-
 </p>
 
 ---
